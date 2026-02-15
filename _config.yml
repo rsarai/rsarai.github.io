@@ -27,11 +27,11 @@ footer-links:
   github: rsarai
   instagram:
   linkedin: rebecasarai
-  pinterest:
+  pinterest: rebecasarai13
   rss: rss
   twitter: _rebecasarai
   stackoverflow:
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: "@rebecasarai13"
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
@@ -100,4 +100,3 @@ exclude:
   - README.md
   - CNAME
   - vendor/
-
